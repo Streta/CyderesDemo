@@ -116,7 +116,7 @@ After adding all this code above into a file called "main.tf" in VS code I was a
 
 # End of Assessment problem #2
 
-**Final Notes:**  this coding challenge was more challenging than expected, before this I had only done some small docker challenges on TryHackMe and using an ubuntu virtual machine following along with a udemy course on ethical hacking where the course lightly touched on containers using vagrant.  If any explanation is further needed in this demonstration please feel free to slack me @ Roosevelt Mendieta and I will follow up with additional info
+**Final Notes:**  If any further explanation is needed in this demonstration please feel free to slack me @ Roosevelt Mendieta and I will follow up with additional info
 &nbsp;
 
 Thank you for coming to my presentation! :)
